@@ -1,32 +1,9 @@
-.margin{
-       margin-top: 30px;
-       margin-left: 40px;
-       margin-bottom:30px;
-       font-size:50px;
+body {
+  font-family: "Poppins", sans-serif;
 }
-.mah{
-    margin-top: 30px;
-    margin-left: 40px;
-    margin-bottom:30px;
-    font-family:Segoe UI ;
+h1 {
+  font-size: 50px;
 }
-#family{
-    font-family:Segoe UI ;
-}
-
-#boro{
-    margin-top: 0;
-    margin-left: 40px;
-    margin-bottom:30px;
-}
-
-#color{
-       color:rgb(240, 162, 106)
-}
-body{
-     background-image: url(images/top-banner.png);
-     background-repeat:repeat-y;
-}
-.bg{
-      float:right;
+.orange {
+  color: orange;
 }
