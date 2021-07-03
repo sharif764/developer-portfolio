@@ -3,7 +3,6 @@
        margin-left: 40px;
        margin-bottom:30px;
        font-size:50px;
-       font-family:;
 }
 .mah{
     margin-top: 30px;
@@ -23,4 +22,11 @@
 
 #color{
        color:rgb(240, 162, 106)
+}
+body{
+     background-image: url(images/top-banner.png);
+     background-repeat:repeat-y;
+}
+.bg{
+      float:right;
 }
