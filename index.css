@@ -3,14 +3,22 @@
        margin-left: 40px;
        margin-bottom:30px;
        font-size:50px;
+       font-family:;
 }
 .mah{
-    margin-top: 38px;
+    margin-top: 30px;
     margin-left: 40px;
     margin-bottom:30px;
+    font-family:Segoe UI ;
 }
 #family{
     font-family:Segoe UI ;
+}
+
+#boro{
+    margin-top: 0;
+    margin-left: 40px;
+    margin-bottom:30px;
 }
 
 #color{
