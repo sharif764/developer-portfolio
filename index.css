@@ -34,11 +34,12 @@ section {
   background-repeat: no-repeat;
 }
 #img {
-  width: 70%;
+  width: 50%;
   padding-right: 100px;
 }
 .image1 {
   padding-bottom: 50px;
+  padding-right: 100px;
 }
 .second-section {
   display: flex;
@@ -50,8 +51,10 @@ section {
   width: 50%;
   padding-right: 50px;
 }
-.img6 {
-  float: right;
+#ing {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
   padding-bottom: 300px;
   padding-top: 0;
 }
@@ -62,4 +65,9 @@ section {
   border-radius: 10px;
   padding: 10px 40px;
   color: white;
+}
+#p {
+  font-family: cursive;
+  padding-right: 500px;
+  line-height: 30px;
 }
