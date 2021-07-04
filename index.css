@@ -74,13 +74,19 @@ h1 {
 .fully {
   display: flex;
   margin-bottom: 100px;
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
 }
 .boxshadow {
   box-shadow: 5px 5px 50px gray;
-  margin-left: 100px;
+  margin-left: 50px;
   margin-bottom: 30px;
   width: 50%;
   padding: 40px;
+  border-radius: 20px;
+  border-image: linear-gradient(red, yellow);
+  border-left: 8px solid;
+  border-image-slice: 1;
   border-radius: 20px;
 }
 .boxshadow2 {
@@ -92,4 +98,12 @@ h1 {
   margin-right: 180px;
   padding-bottom: 100px;
   border-radius: 20px;
+  border-image: linear-gradient(blue, skyblue);
+  border-image-slice: 2;
+  border-left: 6px solid;
+  border-right: 7px solid;
+}
+footer {
+  padding-left: 20px;
+  padding-bottom: 15px;
 }
