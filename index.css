@@ -8,7 +8,7 @@ h1 {
 .orange {
   color: orange;
 }
-section {
+.sectiony {
   display: flex;
 }
 .half-width {
@@ -70,4 +70,26 @@ section {
   font-family: cursive;
   padding-right: 500px;
   line-height: 30px;
+}
+.fully {
+  display: flex;
+  margin-bottom: 100px;
+}
+.boxshadow {
+  box-shadow: 5px 5px 50px gray;
+  margin-left: 100px;
+  margin-bottom: 30px;
+  width: 50%;
+  padding: 40px;
+  border-radius: 20px;
+}
+.boxshadow2 {
+  box-shadow: 5px 5px 50px gray;
+  margin-left: 50px;
+  margin-bottom: 30px;
+  width: 50%;
+  padding: 40px;
+  margin-right: 180px;
+  padding-bottom: 100px;
+  border-radius: 20px;
 }
