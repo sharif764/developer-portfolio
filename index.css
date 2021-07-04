@@ -43,6 +43,7 @@ h1 {
 }
 .second-section {
   display: flex;
+  margin-bottom: 150px;
 }
 .cla {
   width: 50%;
